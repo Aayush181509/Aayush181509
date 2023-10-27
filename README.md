@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="https://i0.wp.com/swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif" width="1000">
+</p>
 <h1 align="center">Hi 👋, I'm Aayush Regmi</h1>
 <h3 align="center">IT Engineer by Degree / AI Enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush181509&label=Profile%20views&color=0e75b6&style=flat" alt="aayush181509" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush181509" alt="aayush181509" /></a> </p>
+<img align="right" alt="coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📫 How to reach me **ayushregmi@gmail.com**
 
