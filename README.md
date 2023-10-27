@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ayushregmi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aOZD8B40R6z9i1vRJafN_ekHDn3xyJb1/view?usp=sharing](https://drive.google.com/file/d/1aOZD8B40R6z9i1vRJafN_ekHDn3xyJb1/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1aOZD8B40R6z9i1vRJafN_ekHDn3xyJb1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
