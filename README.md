@@ -8,9 +8,11 @@
 
 - 🎓 Completed **Bachelor of Engineering in Information Technology** 💻
 
-- 🔭 I’m currently working on **Virtual Fitness Coach**
+- 🔭 I’m currently working on research regarding **GEO AI** and how we can leverage Deep Learning Methodologies
 
-- 🌱 I’m currently learning **Computer Vision and NLP**
+- 🔭 I’m currently working on **UAV/Drone Images Segmentation and Detection**
+
+- 🌱 I’m currently learning **Working on Advanced Deep Learning models for Segmentation.**
 
 - 👨‍💻 All of my projects are available at [github.com/Aayush181509](github.com/Aayush181509)
 
