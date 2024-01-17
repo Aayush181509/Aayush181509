@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence**
 
-- 📫 How to reach me **ayushregmi@gmail.com**
+- 📫 How to reach me **er.aayushregmi@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1SKRvR4x4UcGoTN3mLMJsXsO7wNitM3jg/view?usp=drivesdk)
 
