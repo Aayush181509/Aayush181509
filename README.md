@@ -3,10 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Aayush Regmi</h1>
-<h3 align="center">IT Engineer by Degree / AI Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer at Fusemachines</h3>
 
 
 - 🎓 Completed **Bachelor of Engineering in Information Technology** 💻
+
+- 🔭 I’m currently working as a Machine Learning Engineer at Fusemachines.
 
 - 🔭 I’m currently working on research regarding **GEO AI** and how we can leverage Deep Learning Methodologies
 
