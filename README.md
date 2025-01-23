@@ -8,8 +8,6 @@
 
 - 🎓 Completed **Bachelor of Engineering in Information Technology** 💻
 
-- 🔭 I’m currently working as a Machine Learning Engineer at Fusemachines.
-
 - 🔭 I’m currently working on research regarding **GEO AI** and how we can leverage Deep Learning Methodologies
 
 - 🌱 I’m currently learning **Working on Advanced Deep Learning models for Segmentation.**
